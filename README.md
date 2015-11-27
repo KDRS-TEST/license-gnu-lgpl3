@@ -1,0 +1,1 @@
+# license-gnu-lgpl3
